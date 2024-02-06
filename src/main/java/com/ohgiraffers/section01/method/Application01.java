@@ -49,7 +49,7 @@ public class Application01 {
 
         System.out.println("methodB () 나옴");
 
-//        methodA();
+//        methodA(); // 순환에 빠져버린다
 
         System.out.println("methodB () 죽음");
 

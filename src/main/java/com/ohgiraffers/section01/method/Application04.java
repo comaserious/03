@@ -12,14 +12,6 @@ public class Application04 {
         app4.testMethod("이호준", 33, '남');
 
 
-
-
-
-
-
-
-
-
     }
     public void testMethod(String name, int age, final char gender ) {
 
