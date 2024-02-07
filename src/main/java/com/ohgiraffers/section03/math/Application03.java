@@ -19,9 +19,10 @@ public class Application03 {
         *  원하는 범위의 난수를 구하는 공식
         *  random.nextInt(구하려는 난수의 갯수) + 구하려는 난수의 최솟값*/
 
-        int randomNumber = random.nextInt(10);
+        int randomNumber = random.nextInt(10);  // 0 부터 시작해서 10개의 정수 구간을 만들어준다고 생각하면 좋다
 
         System.out.println("0 부터 9 까지의 난수 : "+ randomNumber);
+
 
 
 
